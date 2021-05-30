@@ -1,2 +1,2 @@
 ### Hi there 👋
-- ![goku](https://github.com/bklol/bklol/goku.png)
+- ![goku](https://github.com/bklol/bklol/blob/main/goku.png)
