@@ -1,2 +1,2 @@
 ### Hi there 👋
-- 📫 How to reach me: google
+- ![goku](https://github.com/bklol/bklol/blob/main/goku/goku.png)
