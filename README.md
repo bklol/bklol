@@ -1,4 +1,4 @@
-### 二次元desu 👋
+### 我是二次元！我老婆：
 <img src="https://github.com/bklol/bklol/blob/main/goku.png" align="middle" />
 <a href="https://github.com/anuraghazra/convoychat">
 	<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bklol&hide_title=true" />
