@@ -1,4 +1,3 @@
-### ANIME IS NO MORE！
 <a href="https://github.com/anuraghazra/convoychat">
 	<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bklol&hide_title=true" />
 </a>
