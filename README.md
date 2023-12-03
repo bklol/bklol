@@ -1,1 +1,1 @@
-- Mom i have joined the internet<br>
+- Mother i have joined the internet<br>
