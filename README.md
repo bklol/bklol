@@ -1,1 +1,1 @@
-- Mother i have joined the internet<br>
+- Preserving cuteness is one of my principles<br>
